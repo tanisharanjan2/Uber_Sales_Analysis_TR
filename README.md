@@ -35,8 +35,8 @@ Uber_Sales_Analysis/
    ```bash
    git clone https://github.com/your-username/Uber_Sales_Analysis.git
 2. Navigate to the directory:
-   cd Uber_Sales_Analysis
+   `cd Uber_Sales_Analysis`
 3. Launch Jupyter Notebook:
-   jupyter notebook
+   `jupyter notebook`
 4. Open Uber_Sales_Analysis_Tanisha_Ranjan.ipynb and run all cells.
 
